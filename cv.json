@@ -5,7 +5,7 @@
     "image": "/me.webp",
     "email": "fontalejandro0@gmail.com",
     "phone": "+34 654 829 865",
-    "url": "https://midu.dev",
+    "url": "",
     "summary": "Soy Alejandro Font, un programador apasionado por la tecnología y el desarrollo de software. Con experiencia en múltiples lenguajes de programación, disfruto creando soluciones innovadoras y eficientes. Mi enfoque está en el desarrollo de aplicaciones multiplataforma y la creación de experiencias interactivas que ofrezcan una experiencia de usuario excepcional. Siempre estoy en busca de nuevos desafíos y oportunidades que me permitan expandir mis conocimientos y habilidades en el campo de la programación.",
     "location": {
       "postalCode": "08029",
@@ -32,7 +32,7 @@
       "position": "Técnico de Investigación y Desarrollo",
       "startDate": "2023-07-01",
       "endDate": null,
-      "summary": "Encargado de tareas de investigación y desarrollo en el área de telecomunicaciones, utilizando tecnologías como Amazon Web Services (AWS) para implementar soluciones avanzadas.",
+      "summary": "Encargado de tareas de investigación y desarrollo en el área de telecomunicaciones, con un enfoque en el desarrollo de proyectos innovadores y la implementación de soluciones tecnológicas avanzadas.",
       "highlights": [
         "Desarrollo de proyectos de telecomunicaciones",
         "Manejo de AWS"
@@ -43,7 +43,7 @@
       "position": "Desarrollador de Software",
       "startDate": "2022-10-01",
       "endDate": "2023-03-01",
-      "summary": "Contrato de prácticas en desarrollo de software, participando en proyectos con tecnologías como MySQL y Unity.",
+      "summary": "Contrato de prácticas en desarrollo de software, participando en proyectos con tecnologías como React, Unity, y MySQL.",
       "highlights": [
         "Desarrollo de aplicaciones con MySQL",
         "Uso de Unity para desarrollo de proyectos"
@@ -53,7 +53,7 @@
   "education": [
     {
       "institution": "CampusNet",
-      "area": "Desarrollo Multiplataformas",
+      "area": "Desarrollo de aplicaciones multiplataformas",
       "studyType": "Ciclo Formativo de Grado Superior",
       "startDate": "2021-09-01",
       "endDate": "2023-05-01",
@@ -62,7 +62,7 @@
     },
     {
       "institution": "Col·legi Pare Manyanet Les Corts",
-      "area": "Bachillerato",
+      "area": "Bachillerato de Ciencias y Tecnología",
       "studyType": "Bachillerato",
       "startDate": "2019-09-01",
       "endDate": "2021-06-01",
@@ -71,13 +71,13 @@
   ],
   "certifications": [
     {
-      "title": "AWS Certified Solutions Architect - Associate",
-      "summary": "Certificación de arquitectura de soluciones en Amazon Web Services",
+      "title": "SQL Server",
+      "summary": "Certificación en SQL Server",
       "date": "2023-01-01"
     },
     {
-      "title": "Unity Certified Programmer",
-      "summary": "Certificación de programación en Unity",
+      "title": "Programación en Python - Nivel Avanzado",
+      "summary": "Certificación en Programación en Python",
       "date": "2023-02-01"
     }
   ],
@@ -221,70 +221,54 @@
     {
       "language": "English",
       "fluency": "Advanced"
+    },
+    {
+      "language": "Catalan",
+      "fluency": "Intermediate"
     }
   ],
   "projects": [
     {
-      "name": "mars.codes",
+      "name": "Imperio Hub",
       "isActive": true,
-      "description": "Historia interactiva con retos de programación para viajar a Marte",
+      "description": "Aplicación web para ver peliculas y series online clon de Netflix",
       "highlights": [
-        "Elige tu propia aventura",
-        "En desarrollo"
+        "Next.js",
+        "Tailwind CSS",
+        "MongoDB"
       ],
-      "url": "https://mars.codes"
+      "github": "https://github.com/AleDev11/imperio_hub",
+      "url": "https://imperiohub-qr24obbac-aledev11.vercel.app/auth"
     },
     {
-      "name": "AdventJS",
-      "isActive": true,
-      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+      "name": "Random Word Solver",
+      "isActive": false,
+      "description": "Aplicación web para resolver palabras aleatorias",
       "highlights": [
-        "+1 millón de visitas",
-        "Multidioma",
-        "JavaScript & TypeScript"
+        "C#",
+        "Algoritmo de resolución"
       ],
-      "url": "https://adventjs.dev"
+      "github": "https://github.com/AleDev11/RandomWordSolver"
     },
     {
-      "name": "Codember",
-      "isActive": true,
-      "description": "Juego interactivo de programación con retos y secretos",
+      "name": "Morse Translator",
+      "isActive": false,
+      "description": "Traductor de texto a código Morse y viceversa",
       "highlights": [
-        "+2000 usuarios activos",
-        "Retos para cualquier lenguaje"
+        "Python",
+        "Interfaz gráfica"
       ],
-      "url": "https://codember.dev"
+      "github": "https://github.com/AleDev11/MorseTranslator"
     },
     {
-      "name": "codi.link",
-      "isActive": true,
-      "description": "Playground de código HTML, CSS y JavaScript para compartir",
+      "name": "Password Generator",
+      "isActive": false,
+      "description": "Generador de contraseñas seguras",
       "highlights": [
-        "100k visitas al mes",
-        "Desarrollado por la comunidad"
+        "Python",
+        "Interfaz gráfica"
       ],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
-    },
-    {
-      "name": "Pruebas Técnicas",
-      "isActive": true,
-      "description": "Lista de pruebas técnicas de empresas para practicar programación",
-      "highlights": [
-        "100% gratuito",
-        "+500 soluciones de la comunidad"
-      ],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
-    },
-    {
-      "name": "miduConf",
-      "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
-      "highlights": [
-        "+15k tickets repartidos",
-        "+50k espectadores en directo"
-      ],
-      "url": "https://miduconf.com"
+      "github": "https://github.com/AleDev11/Password-Generator"
     }
   ]
 }
