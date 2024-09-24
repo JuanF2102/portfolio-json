@@ -1,0 +1,290 @@
+{
+  "basics": {
+    "name": "Alejandro Font Muñiz",
+    "label": "Full Stack Developer y Técnico de Investigación",
+    "image": "/me.webp",
+    "email": "fontalejandro0@gmail.com",
+    "phone": "+34 654 829 865",
+    "url": "https://midu.dev",
+    "summary": "Soy Alejandro Font, un programador apasionado por la tecnología y el desarrollo de software. Con experiencia en múltiples lenguajes de programación, disfruto creando soluciones innovadoras y eficientes. Mi enfoque está en el desarrollo de aplicaciones multiplataforma y la creación de experiencias interactivas que ofrezcan una experiencia de usuario excepcional. Siempre estoy en busca de nuevos desafíos y oportunidades que me permitan expandir mis conocimientos y habilidades en el campo de la programación.",
+    "location": {
+      "postalCode": "08029",
+      "city": "Barcelona, Cataluña",
+      "countryCode": "ES",
+      "region": "España"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Alejandro Font",
+        "url": "https://www.linkedin.com/in/alejandro-font-mu%C3%B1iz/"
+      },
+      {
+        "network": "GitHub",
+        "username": "AleDev11",
+        "url": "https://github.com/AleDev11"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Gatchan Telecom",
+      "position": "Técnico de Investigación y Desarrollo",
+      "startDate": "2023-07-01",
+      "endDate": null,
+      "summary": "Encargado de tareas de investigación y desarrollo en el área de telecomunicaciones, utilizando tecnologías como Amazon Web Services (AWS) para implementar soluciones avanzadas.",
+      "highlights": [
+        "Desarrollo de proyectos de telecomunicaciones",
+        "Manejo de AWS"
+      ]
+    },
+    {
+      "name": "TETRAVOL SL",
+      "position": "Desarrollador de Software",
+      "startDate": "2022-10-01",
+      "endDate": "2023-03-01",
+      "summary": "Contrato de prácticas en desarrollo de software, participando en proyectos con tecnologías como MySQL y Unity.",
+      "highlights": [
+        "Desarrollo de aplicaciones con MySQL",
+        "Uso de Unity para desarrollo de proyectos"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "CampusNet",
+      "area": "Desarrollo Multiplataformas",
+      "studyType": "Ciclo Formativo de Grado Superior",
+      "startDate": "2021-09-01",
+      "endDate": "2023-05-01",
+      "highlights": ["Programación", "Desarrollo Java"],
+      "keywords": ["Programación", "Java", "Desarrollo Multiplataformas"]
+    },
+    {
+      "institution": "Col·legi Pare Manyanet Les Corts",
+      "area": "Bachillerato",
+      "studyType": "Bachillerato",
+      "startDate": "2019-09-01",
+      "endDate": "2021-06-01",
+      "highlights": ["Inglés"]
+    }
+  ],
+  "certifications": [
+    {
+      "title": "AWS Certified Solutions Architect - Associate",
+      "summary": "Certificación de arquitectura de soluciones en Amazon Web Services",
+      "date": "2023-01-01"
+    },
+    {
+      "title": "Unity Certified Programmer",
+      "summary": "Certificación de programación en Unity",
+      "date": "2023-02-01"
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "Fullstack"
+      ]
+    },
+    {
+      "name": "Tailwind",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "CSS Framework",
+        "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Node",
+      "keywords": [
+        "Desarrollo Web",
+        "Backend",
+        "JavaScript",
+        "Servidor"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "keywords": [
+        "Bases de Datos",
+        "SQL",
+        "Almacenamiento de Datos",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "keywords": [
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "keywords": [
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente",
+        "Git"
+      ]
+    },
+    {
+      "name": "Next.js",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "React Framework",
+        "SSR",
+        "Static Generation"
+      ]
+    },
+    {
+      "name": "React",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
+      ]
+    },
+    {
+      "name": "Docker",
+      "keywords": [
+        "Contenedores",
+        "Despliegue",
+        "Infraestructura"
+      ]
+    },
+    {
+      "name": "MongoDB",
+      "keywords": [
+        "Bases de Datos",
+        "NoSQL",
+        "Almacenamiento de Datos",
+        "Backend"
+      ]
+    },
+    {
+      "name": "AWS",
+      "keywords": [
+        "Infraestructura",
+        "Despliegue",
+        "Servicios Cloud"
+      ]
+    },
+    {
+      "name": "Python",
+      "keywords": [
+        "Desarrollo Web",
+        "Backend",
+        "Data Science",
+        "Machine Learning"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    }
+  ],
+  "projects": [
+    {
+      "name": "mars.codes",
+      "isActive": true,
+      "description": "Historia interactiva con retos de programación para viajar a Marte",
+      "highlights": [
+        "Elige tu propia aventura",
+        "En desarrollo"
+      ],
+      "url": "https://mars.codes"
+    },
+    {
+      "name": "AdventJS",
+      "isActive": true,
+      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+      "highlights": [
+        "+1 millón de visitas",
+        "Multidioma",
+        "JavaScript & TypeScript"
+      ],
+      "url": "https://adventjs.dev"
+    },
+    {
+      "name": "Codember",
+      "isActive": true,
+      "description": "Juego interactivo de programación con retos y secretos",
+      "highlights": [
+        "+2000 usuarios activos",
+        "Retos para cualquier lenguaje"
+      ],
+      "url": "https://codember.dev"
+    },
+    {
+      "name": "codi.link",
+      "isActive": true,
+      "description": "Playground de código HTML, CSS y JavaScript para compartir",
+      "highlights": [
+        "100k visitas al mes",
+        "Desarrollado por la comunidad"
+      ],
+      "url": "https://codi.link",
+      "github": "https://github.com/midudev/codi.link"
+    },
+    {
+      "name": "Pruebas Técnicas",
+      "isActive": true,
+      "description": "Lista de pruebas técnicas de empresas para practicar programación",
+      "highlights": [
+        "100% gratuito",
+        "+500 soluciones de la comunidad"
+      ],
+      "url": "https://pruebastecnicas.com",
+      "github": "https://github.com/midudev/pruebas-tecnicas"
+    },
+    {
+      "name": "miduConf",
+      "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
+      "highlights": [
+        "+15k tickets repartidos",
+        "+50k espectadores en directo"
+      ],
+      "url": "https://miduconf.com"
+    }
+  ]
+}
