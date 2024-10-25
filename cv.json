@@ -229,6 +229,17 @@
   ],
   "projects": [
     {
+      "name": "JSON Formatter",
+      "isActive": true,
+      "description": "Aplicación web para formatear y visualizar archivos JSON",
+      "highlights": [
+        "Next.js",
+        "Tailwind CSS"
+      ],
+      "github": "https://github.com/AleDev11/json-formatter",
+      "url": "https://aledev11.github.io/json-formatter/"
+    },
+    {
       "name": "Imperio Hub",
       "isActive": true,
       "description": "Aplicación web para ver peliculas y series online clon de Netflix",
