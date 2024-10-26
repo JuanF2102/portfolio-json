@@ -231,7 +231,7 @@
     {
       "name": "JSON Formatter",
       "isActive": true,
-      "description": "Aplicación web para formatear y visualizar archivos JSON",
+      "description": "Aplicación web para formatear y visualizar archivos JSON, creando interfaces.",
       "highlights": [
         "Next.js",
         "Tailwind CSS"
