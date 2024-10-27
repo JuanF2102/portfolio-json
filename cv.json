@@ -57,8 +57,15 @@
       "studyType": "Ciclo Formativo de Grado Superior",
       "startDate": "2021-09-01",
       "endDate": "2023-05-01",
-      "highlights": ["Programación", "Desarrollo Java"],
-      "keywords": ["Programación", "Java", "Desarrollo Multiplataformas"]
+      "highlights": [
+        "Programación",
+        "Desarrollo Java"
+      ],
+      "keywords": [
+        "Programación",
+        "Java",
+        "Desarrollo Multiplataformas"
+      ]
     },
     {
       "institution": "Col·legi Pare Manyanet Les Corts",
@@ -66,7 +73,9 @@
       "studyType": "Bachillerato",
       "startDate": "2019-09-01",
       "endDate": "2021-06-01",
-      "highlights": ["Inglés"]
+      "highlights": [
+        "Inglés"
+      ]
     }
   ],
   "certifications": [
@@ -248,7 +257,7 @@
         "Tailwind CSS",
         "MongoDB"
       ],
-      "github": "https://github.com/AleDev11/imperio_hub",
+      "github": "https://github.com/AleDev11/imperio_hub"
     },
     {
       "name": "Random Word Solver",
