@@ -2,7 +2,7 @@
   "basics": {
     "name": "Alejandro Font Muñiz",
     "label": "Full Stack Developer y Técnico de Investigación",
-    "image": "/portfolio-json/me.webp",
+    "image": "./me.webp",
     "email": "fontalejandro0@gmail.com",
     "phone": "+34 654 829 865",
     "url": "",
